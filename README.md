@@ -81,6 +81,7 @@ Note: In the Queries paragraph, after each query, the mode of the running algori
 Attention: The spaces, the commas, the line return, and the order of the Variables (parents before children) must be respected.
 
 #The Output
+
 In the end of the program running you should find an "output.txt" file which contains the result of the queries as the next:
 ```
 0.28417,7,32
